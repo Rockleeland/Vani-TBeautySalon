@@ -5,9 +5,9 @@ https://aqueous-forest-79100.herokuapp.com/
 ## About
 Website for a beauty salon where customers can make appointments. 
 There is also an admin sign in where the owner can view the appointments.
-```
+
 https://aqueous-forest-79100.herokuapp.com/signin
-```
+
 
 ## Technologies used:
 
