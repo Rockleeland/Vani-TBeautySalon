@@ -33,8 +33,11 @@ https://aqueous-forest-79100.herokuapp.com/signin
 * [path](https://www.npmjs.com/package/path) 
 * [sequelize](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
 
-# Tessting:
+# Testing:
+```npm test```
 * [nightmare](https://www.npmjs.com/package/nightmare) - Nightmare is a high-level browser automation library
+* [mocha](https://www.npmjs.com/package/mocha) - Simple, flexible, fun JavaScript test framework for Node.js & The Browser
+* [chai](https://www.npmjs.com/package/chai) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 
 
 ## Author
