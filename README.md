@@ -37,5 +37,9 @@ https://aqueous-forest-79100.herokuapp.com/signin
 
 ## Author
 * **Leeland Clenista** 
+* **Kat Keivens**
+* **Andy Weins**
+* **Allan Tomas**
+* **Ivan Chapman**
 
 
